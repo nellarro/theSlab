@@ -6,7 +6,7 @@ Rocky Casting and Snaps
 - [ ] Have a director portal/login
 - [ ] Must have the ability to add snaps
 - [ ] Mobile and Responsive
-- [ ] Weighted system (see Casey)
+- [ ] Weighted system (see [Casey](https://github.com/CaseyFaist))
 - [ ] Cast, tech, and two alternates
 - [ ] Ability to send out emails or texts to cast/tech/alternates
 - [ ] Stretch Goal: link to current cast members with headshots and contact info
