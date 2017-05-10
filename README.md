@@ -1,7 +1,7 @@
 # theSlab
 Rocky Casting and Snaps
 
-###Requirements / TODOS:
+### Requirements / TODOS:
 - [ ] Have a cast portal/login
 - [ ] Have a director portal/login
 - [ ] Must have the ability to add snaps
